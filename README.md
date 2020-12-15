@@ -1,6 +1,6 @@
 # Are points the most important factor when determining NBA champions?
 
-This is the start of a research project to understand the most important factor in winning an NBA champtionship
+This is the start of a research project to understand the most important factor in winning an NBA championship
 
 So far this project has:
 - scraped historical NBA information from a variety of sources, namely [Complete History Of The NBA](http://fivethirtyeight.com/interactives/the-complete-history-of-every-nba-team-by-elo), Basketball-Reference.com and Wikipedia
